@@ -1,0 +1,15 @@
+C:/StudyHardware/TB_not_gate.v {1 {vlog -work work C:/StudyHardware/TB_not_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_not_gate
+
+Top level modules:
+	TB_not_gate
+
+} {} {}} C:/StudyHardware/not_gate.v {1 {vlog -work work C:/StudyHardware/not_gate.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module not_gate
+
+Top level modules:
+	not_gate
+
+} {} {}}
